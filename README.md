@@ -1,1 +1,1 @@
-# HufmanCodec
+# HuffmanCodec
